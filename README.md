@@ -4,6 +4,7 @@ Reddit is an American social news aggregation, web content rating, and discussio
 
 [Churn/Retention Analysis] 
 Goal: Show how users engage with various subreddits over time 
+
 Result: Demonstrate retention curve for 30 subreddits
 
 
